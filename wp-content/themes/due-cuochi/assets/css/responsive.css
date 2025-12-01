@@ -1,0 +1,2324 @@
+@media screen and (min-width:480px) {
+    .site-title li{
+        margin-right: 23px;
+        letter-spacing: 2.4px;
+        font-size: 14px;
+    }
+    span.dish.establish {
+        margin-top: 12px;
+        margin-bottom: 21px;
+        letter-spacing: 4.2px;
+    }
+    .banner{
+        padding: 32px 0 12px;
+    }
+    .our-units{
+        max-width: 420px;
+        margin: 0 auto;
+    }
+    .our-units li{
+        padding: 0 13px;
+    }
+    .our-units a{
+        font-size: 16px;
+    }
+    .event-content {
+        margin: 0;
+    }
+    .event-content p{
+        font-size: 14px;
+    }
+    .event-heading h1{
+        margin-bottom: 0;
+        padding: 0 38px 0 45px;
+        letter-spacing: 6.8px;
+        line-height: 1.25;
+    }
+    .event-heading h2{
+        margin-bottom: 6px;
+        line-height: 1.25;
+        letter-spacing: 6.7px;
+        padding: 0 12px 0 29px;
+    } 
+    .memorable-event .reservation-place {
+        padding: 62px 3px 42px 13px;
+        margin-bottom: 35px;
+    }
+    .memorable-event .reservation-place h3 {
+        margin-bottom: 67px;
+        padding: 0 6px 0 4px;
+    }
+    .event-story .restaurant-content {
+        padding: 0 40px;
+    }
+    
+    .enjoy-listing{
+        padding: 43px 45px 37px;
+    }
+    .event-content h3{
+        padding: 1px 68px 0 67px;
+        margin-bottom: 18px;
+    }
+    .enjoy-listing h3 {
+        padding: 0 68px 0 64px;
+        margin-bottom: 25px;
+    }
+    .enjoy-listing p{
+        margin-bottom: 13px;
+    }
+    .exlcusive-space p{
+        margin-top: -4px;
+    }
+    .exlcusive-space{
+        margin-bottom: 11px;
+    }
+    .reservation-place .visit-place .know-btn {
+        letter-spacing: -0.5px;
+        padding: 5px 9px 6px 13px;
+        font-size: 14px;
+    }
+    .enjoy-listing.visit-place .know-btn {
+        padding: 10px 34px 10px 33px;
+        letter-spacing: -0.5px;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+     /*event*/
+     .event-main-banner{
+        padding: 0 11px 0 16px;
+    }
+    .event-main-banner h2{
+        padding: 0 30px;
+        font-size: 22.91px;
+    }
+    .gastronomic-event .know-btn {
+        padding: 6px 9px 9px 9px;
+    }
+    .gastronomic-event .event-content h3 {
+        padding: 0 54px !important;
+        line-height: 1.3;
+    }
+    
+    .enjoy-section .enjoy-listing h3 {
+        padding: 0 12px;
+    }
+    .enjoy-block .enjoy-listing:nth-child(1) h3{
+        padding: 0 30px;
+    }
+    .enjoy-block .enjoy-listing:nth-child(2) .know-btn:last-child{
+        margin-top: 65px;
+    }
+    .enjoy-listing.visit-place h3{
+        padding: 0 15px;
+    }
+    .enjoy-block .enjoy-listing {
+        padding: 43px 45px 37px;
+    }
+    .post-wrap h3{
+        padding: 0 100px;
+    }
+    .detailed-post h3 {
+        padding: 0;
+    }
+    .detailed-post .revenue-list {
+        order: 1;
+    }
+    .detailed-content-wrapper{
+        order: 2;
+    }
+     /*news-banner*/
+    .news-banner .event-heading h2{
+        font-size: 16px;
+        margin-bottom: 22px;
+        line-height: 1.7;
+        letter-spacing: 4.3px;
+        padding: 0px 12px 0px 15px;
+    }
+    .news-right-block h2 {
+        font-size: 40px;
+        letter-spacing: 12px;
+        padding-left: 12px;
+    }
+    .categories-list li {
+        margin-bottom: 26px;
+    }
+    .price {
+        margin-right: -2px;
+    }
+    .categories-section {
+        margin-bottom: 52px;
+    }
+    .mostRead-post h3{
+        padding-left: 4px;
+        letter-spacing: -0.3px;
+        margin-bottom: 45px;
+    }
+    .post-links .nav-links a{
+        padding: 9px 10px;
+    }
+    .post-list p{
+        font-size: 19px;
+        line-height: 1.35;
+    }
+    /*trattoria*/
+    .trattoria-banner .event-main-banner h2 {
+        padding: 0 40px;
+        font-size: 15.91px;
+        margin-bottom: 25px;
+        line-height: 1.7;
+        letter-spacing: 4px;
+        word-spacing: 4px;
+    }
+    .trattoria-event.memorable-event .reservation-place h3 {
+        margin-bottom: 12px;
+    }
+     .cardapio h2 {
+        letter-spacing: 12px;
+        padding-left: 14px;
+        margin-bottom: 8px;
+    }
+    .executivo-section h2{
+        letter-spacing: 12px;
+    }
+    .executivo-section .know-btn{
+        padding: 13px 32px 11px 32px;
+    }
+    .mobile-icon {
+        margin-top: -85px;
+    }
+    .exec-note{
+        padding: 0 53px;
+    }
+ 
+}
+@media screen and (min-width:600px) {
+    .mobile-slider .owl-carousel .owl-item img, .mobile-menu-slider .owl-carousel .owl-item img {
+        height: 420px;
+    }
+
+}
+@media screen and (max-width:767px) {
+    .site-header {
+        border-color: #184c35;
+    }
+   .detailed-post .nav-links {
+    text-align: center;
+    }
+    .detailed-post .nav-links .nav-previous{
+        text-align: left;
+    }
+    .form-wrapper .desktop-contact{
+        display: none;
+    }
+    .news-left-block.news-category .last-post{
+        margin-bottom: 25px;
+    }
+    .news-section.news-category-block{
+        padding-bottom: 26px;
+    }
+}
+@media screen and (max-width:991px) {
+    .news-left-block.news-category .post-links .know-btn:hover, .tax-news-tag .post-links .know-btn:hover{
+        border: none;
+    }
+}
+@media screen and (min-width:768px) {
+    .desktop-logo {
+        display: block;
+    }
+    .mobile-logo{
+        display: none;
+    }
+    .site-title{
+        display: none;
+    }
+    .site-header .container {
+        padding-right: 18px;
+    }
+    .left-header{
+        padding-left: 0;
+    }
+    .main-logo {
+        width: 170px;
+    }
+    .hamburger{
+        display: none;
+    }
+    .site-header{
+        padding: 18px 0 0;
+    }
+    .header-wrap {
+        align-items: start;
+    }
+    .right-header{
+        border-top: none;
+        display: block;
+        position: static;
+        background: transparent;
+        height: auto;
+        padding: 0;
+    }
+    .main-menu{
+        display: flex;
+        align-items: start;
+    }
+    .right-header .menu{
+        display: flex;
+        justify-content: flex-end;
+    }
+ 
+    .main-navigation li {
+        margin-bottom: 0;
+        margin-right: 15px;
+        position: relative;
+        padding-bottom: 18px;
+    }
+
+    .sub-menu{
+        min-width: 170px;
+        border: 2px solid #c99b61;
+        position: absolute !important;
+        top: 42px !important;
+        left: -55px !important;
+        display: none !important;
+        background-color: #184e36;
+        margin-bottom: 0 !important;
+    }  
+    .sub-menu::after{
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        display: none;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        top: 0px;
+        border-color:#c99b61 transparent transparent transparent ;
+        border-width: 10px;
+    }
+    .main-navigation li:hover .sub-menu,.main-navigation li:hover .sub-menu::after{
+        display: block !important;
+    }
+    .sub-menu li{
+        margin-right: 0 !important;
+        margin-top: 0 !important;
+        border-bottom: 2px solid #c99b61;
+        padding-bottom: 0 !important;
+    }
+    .sub-menu li:last-child{
+        border-bottom: 0;
+    }
+    .sub-menu a{
+        padding: 4px 15px 3px 14px;
+        font-style: italic;
+        width: 100% !important;
+    }
+    .social-media li:last-child {
+        margin-right: 0;
+    }
+    /*reservation-slide-wrap*/
+    .reservation-slide-wrap{
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .reservation-sliders{
+        display: block;
+        overflow: hidden;
+    }
+    .reservation{
+        background-color: #184c35;
+        padding-bottom: 28px;
+        border-top: 1px solid #c99b61;
+    }
+    .reservation-place{
+        position: absolute;
+        width: 35%;
+        top: 0;
+        left: 0;
+        right: 0;
+        display: block;
+        z-index: 2;
+    }
+    .look-foods{
+        display: inline-block;
+        color: #bf9c6a;
+        font-family: var(--primary-font);
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 1.1;
+    }
+    .reservation-sliders .owl-stage{
+        display: flex;
+        justify-content: space-between;
+    }
+    .reservation-sliders .slide{
+        text-align:center;
+        padding: 31px 35px 50px;
+    }
+    .slide-icon{
+        max-width: 92px;
+        margin: 0 auto 6px;
+        position: relative;
+    }
+    .slide-icon::after{
+        content: '';
+        position: absolute;
+        left:0;
+        width: 100%;
+        top: 50%;
+        transform: translateY(-50%);
+        height: 1px;
+        background-color: #c99b61;
+    }
+    .slide-icon img{
+        width: 50px;
+        padding: 10px;
+        background-color: #184c35;
+        position: relative;
+        z-index: 1;
+    }
+    .listing{
+        margin-bottom: 10px;
+    }
+    .listing:last-child{
+        margin-bottom: 0;
+    }
+    .reservation-sliders .slide p{
+        font-family: var(--primary-font);
+        color: #e5daca;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+    .reservation-sliders .owl-nav{
+        background-color: transparent;
+        width: 100% !important;
+        right: 0 !important;
+        justify-content: space-between;
+    }
+    .reservation-sliders .owl-nav button{
+        width: 30px;
+        height: 30px;
+        background-color: transparent !important;
+        font-size: 0 !important;
+        position: relative;
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+    }
+    .reservation-sliders .owl-nav button.owl-next::after{
+        background: url(../images/dark-arrow.png) no-repeat center;
+        width: 100%;
+        z-index: 111111;
+        height: 100%;
+        content: '';
+        position: absolute;
+        left: 0;
+        background-size: 30px;
+    }
+    .reservation-sliders .owl-nav button.owl-prev::after{
+        background: url(../images/dark-arrow.png) no-repeat center;
+        width: 100%;
+        z-index: 111111;
+        height: 100%;
+        content: '';
+        position: absolute;
+        top: 0;
+        transform: rotate(180deg);
+        left: 0;
+        background-size: 30px;
+    }
+    .reservation::after{
+        display: none;
+    }
+    .history{
+        max-width: 100%;
+        text-align: left;
+        flex-direction: row;
+        align-items: flex-start;
+    }
+    .story-img{
+        margin: 0 33px 0 0;
+    }
+    .story-content {
+        margin-bottom: 0;
+        max-width: calc(100% - 270px - 20px);
+    }
+    .story-content > p {
+        margin-bottom: 0;
+        margin-bottom: 22px;
+    }
+    .journey-listing p{
+        margin-bottom: 0;
+        padding-right: 34px;
+    }
+    .journey-listing h3{
+        position: relative;
+        margin-bottom: 12px;
+    }
+    .journey-year{
+        display: inline-block;
+        color: #c99b61;
+        font-family: var(--third-font);
+        font-weight: bold;
+        padding-right: 12px;
+        background-color: #e5d9c9;
+        position: relative;
+        z-index: 1;
+        padding-left: 1px;
+    }
+    .journey-listing h3::after{
+        content: '';
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 1px;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: #c99b61;
+    }
+    .journey-listing{
+        position: relative;
+        padding-right: 20px;
+    }
+    .journey-listing::after{
+        position: absolute;
+        content: '';
+        right: 6px;
+        top: 10px;
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background-color: #c99b61;
+    }
+    .our-journey {
+        margin-bottom: 22px;
+        position: relative;
+        display: block !important;
+    }
+    .our-journey.owl-theme .owl-nav {
+        background: transparent;
+        top: 15px;
+        right: 0;
+        width: 40px;
+        height: 20px;
+    }
+ 
+    .our-journey .owl-item.active + .owl-item.active .journey-listing h3::after,.our-journey .owl-item.active + .owl-item.active .journey-listing::after {
+        display: none;
+    }
+    .journey-listing:nth-child(4) h3:after{
+        display: none;
+    }
+    .our-journey.owl-carousel .owl-nav button.owl-next::after{
+        background: url(../images/dark-arrow.png) no-repeat;
+        background-size: 33px;
+        width: 33px;
+        height: 15px;
+        content: '';
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .story-content p .know-btn {
+        display: none;
+    }
+    .story-content > .know-btn{
+        font-family: var(--primary-font);
+        font-weight: 400;
+        padding: 6px 27px;
+        color: #bf975f;
+        background-color: #184c35;
+        text-decoration: none;
+        display: inline-block;
+        transition: all 0.5s;
+        border: 2px solid #184c35;
+    }
+    .story-content > .know-btn:hover{
+        background: transparent;
+        border: 2px solid #184c35;
+        color: #184c35;
+    }
+  
+    .our-restaurant.our-story {
+        background-color: #184c35;
+        padding: 60px 0 0;
+    }
+    .restaurant-picture {
+        display: block;
+        width: 90%;
+    }
+    .restaurant-picture img{
+        width: 100%;
+        min-height: 360px;
+        object-fit: cover;
+    }
+    .mobile-slider{
+        display: none;
+    }
+    .desktop-slider.mobile-slider{
+        display: block;
+        padding: 0;
+        width: calc(100% - 260px);
+        margin-right: -18px;
+        background-color: #e5d9c9;
+    }
+    .container-wrapper .container{
+        display: flex;
+        align-items: center;
+    }
+    .story-wrapper.container-wrapper {
+        position: static;
+        margin-top: 0;
+        margin-left: 0px;
+        padding: 0;
+        width: 100%;
+    }
+    .container-wrapper{
+        background-color: #e5d9c9;
+        padding: 40px 0 40px 10px;
+        width: calc(100% - 6%);
+        margin-left: auto;
+        margin-top: -300px;
+        position: relative;
+    }
+    .our-restaurant.our-story .restaurant.history{
+        max-width: 300px;
+        margin-left: 0;
+        display: block;
+        padding-right: 15px;
+        margin-bottom: 0;
+    }
+    .desktop-slider,.desktop-menu-slider {
+        display: block;
+      }
+      .mobile-slider .owl-carousel .owl-item img, .mobile-menu-slider .owl-carousel .owl-item img {
+        height: 290px;
+    }
+    .owl-theme .owl-nav {
+        right: 27px;
+    }
+    .our-units {
+        display: block;
+        margin-left: 0;
+    }
+    .story-img img {
+        height: auto;
+    }
+    .restaurant-content p {
+        margin-bottom: 10px;
+    }
+    .restaurant-title {
+        margin-bottom: 10px;
+    }
+    .our-story.our-menu {
+        padding: 0;
+        background-color: #184c35;
+        overflow: hidden;
+    }
+    .mobile-menu-slider{
+        display: none;
+    }
+    .our-menu.our-story .restaurant.history {
+        max-width: 300px;
+        margin-left: 0;
+        display: block;
+        padding-right: 15px;
+        margin-bottom: 0;
+    }
+    .desktop-menu-slider.mobile-menu-slider{
+        display: block;
+        padding: 0;
+        width: calc(100% - 260px);
+        margin-right: -30px;
+    }
+    .mobile-menu-slider.desktop-menu-slider .restaurant-slider{
+        background-color: #e5d9c9;
+    }
+    .our-story.our-menu .container-wrapper .container{
+        align-items: flex-start;
+    }
+    .site-footer .widget.widget_block { 
+       display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .footer-chef {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .produce-title ,.footer-logo,.site-info .social-media-wrap{
+        margin-bottom: 0;
+    }
+    .footer-logo{
+        position: relative;
+        width: calc(100% - 120px - 90px);
+        margin: 0 auto;
+    }
+    .footer-logo::before {
+        top: 50%;
+    }
+    .our-story {
+        padding-top: 45px;
+    }
+    .our-story.our-menu .restaurant-content{
+        padding-top:30px;
+    }
+    .address, .phone, .tel {
+        color: #e5daca;
+    }
+    /*news*/
+    .similar-news {
+        padding: 50px 0;
+    }
+    /*gallery*/
+    .grid-item, .grid-sizer {
+        width: 31%;
+    }
+    .grid-item{
+        margin-bottom: 19px;
+    }
+    .desktop-contact{
+        display: block;
+    }
+    .gallery-wrapper{
+        padding: 35px 0 60px;
+    }
+    .grid-item img{
+        display: block;
+        width: 100%;
+    }
+    /*contact*/
+    .contact-banner .event-heading h2{
+        display: block;
+    }
+    .mobile-contact{
+        display: none;
+    }
+    .input-wrap.field p{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+    .contact-section .input-wrap input, .input-wrap textarea, .input-wrap select {
+        text-align: left;
+    }
+    .contact-section .input-wrap{
+        margin-bottom: -1px;
+    }
+    .form-wrapper {
+        max-width: 480px;
+    }
+    .contact-form-heading h2 {
+        display: block;
+    }
+    .post-links .nav-links a {
+        padding: 10px 20px;
+    }
+    .detailed-post.owl-carousel .owl-stage{
+        display: flex;
+    }
+    .detailed-post.owl-carousel .owl-item{
+        display: flex;
+        flex: 1 0 auto;
+    }
+    .detailed-post.owl-carousel .owl-item .item-list{
+         display: flex;
+        flex-direction: column;
+        margin: 0 15px;
+        gap:0;
+    }
+    .detailed-post.owl-carousel .owl-item .post-content{ 
+        display: flex;
+        flex: 1 0 auto;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .detailed-post.owl-carousel .post-content h3 a {
+        flex-grow: 1;
+    }
+    .enjoy-block {
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 1016px;
+        margin: 0 auto;
+    }
+       /*event*/
+    .enjoy-listing{
+        max-width: 500px;
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+    .enjoy-listing h3 {
+        padding: 0 24px 0 22px;
+    }
+    .enjoy-block .enjoy-listing:nth-child(2) h3 {
+        padding: 2px 9px 1px 9px;
+    }
+    .gastronomic-event .reservation-place{
+        position:relative;
+    }
+    .enjoy-section {
+        position: relative;
+        margin-bottom: 0;
+    }
+    .event-story .restaurant-content {
+        padding: 0;
+    }
+    .event-story .owl-theme .owl-nav {
+        right: 25px;
+    }
+    .site-header .social-media-wrap a{
+        background-color: #c99b61;
+        color: #184c35;
+      }
+    .site-header .social-media-wrap i{
+    color: #184c35;
+    }
+    /*trattoria*/
+    .executivo-section{
+        padding: 90px 120px;
+        max-width: 800px;
+    }
+    .trattoria-slider-btn{
+        display: block;
+        margin-top: 15px;
+    }
+    .trattoria-slider-btn .know-btn{
+        margin-bottom: 0;
+    }
+    .trattoria-slider-btn.trattoria-mobile-btn{
+        display: none;
+    }
+    .eventos-section.trattoria-slider{
+        display: block;
+        background-color: #184c35;
+        padding-top: 30px;
+        position: relative;
+    }
+    .trattoria-slider{
+        background-color: #184c35;
+        padding: 37px 0;
+    }
+    .trattoria-events {
+        display: block;
+    }
+    .cardapio-bottom p {
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+    .executive-bg{
+        padding-top: 51px;
+    }
+    .executivo-section-wrapper {
+        background-size: auto 88.3%;
+        padding-bottom: 46px;
+    }
+    .bottom-slider{
+        display: block;
+        background-color: #184c35;
+        padding: 40px 0;
+    }
+    .bottom-slider .container-wrapper{
+        margin-top: 0;
+        overflow: hidden;
+        padding: 40px 0 40px 21px;
+        width: calc(100% - 4%);
+    }
+    .bottom-slider .container-wrapper .container{
+        overflow: hidden;
+        padding: 0;
+        display: block;
+    }
+    .bottom-slider .restaurant-slider.owl-carousel {
+        margin: 0;
+    }
+    .cardapio {
+        padding-bottom: 20px;
+    }
+    .trattoria-slider .container-wrapper {
+        width: calc(100% - 4%);
+    }
+    .custom-trattoria{
+        display: block;
+        padding: 0;
+        overflow: hidden;
+        width: calc(100% - 272px);
+        margin-right: -18px;
+        background-color: transparent;
+    }
+    .trattoria-gallery{
+        display: block;
+    }
+    .bottom-slider .due-slider{
+        display: none;
+    }
+    .trattoria-slider .history{
+        max-width: 290px;
+        margin: 0;
+    }
+    .trattoria-gallery .owl-nav{
+        right: unset;
+        left: 202px;
+    }
+    .page-template-template-trattoria{
+        background-color: #184c35;
+    }
+    .box-content-wrapper p {
+        margin-bottom: 0 !important;
+    }
+    .executivo-slider {
+        margin-bottom: 18px;
+    }
+    .executivo-section .know-btn {
+        margin-bottom: 17px;
+        padding: 10px 32px 9px 32px;
+    }
+    .trattoria-events.executivo-section .know-btn{
+        position: absolute;
+        bottom: 95px;
+        left: 0;
+        right: 0;
+        max-width: 260px;
+        margin: 0 auto;
+        font-size: 14px;
+        padding: 9px 18px 10px 18px;
+        letter-spacing: 0.7px;
+    }
+    p.exec-validity.exec-note {
+        letter-spacing: 0px;
+        word-spacing: -2px;
+    }
+    .trattoria-events.executivo-section {
+        padding-bottom: 125px;
+    }
+    .trattoria-slider .restaurant-title{
+        margin-bottom: 13px;
+    }
+    .primary-cardapio{
+        flex-direction: row;
+        justify-content: center;
+        gap: 40px;
+        padding-bottom: 8px;
+        max-width: 755px;
+        margin: 0 auto 16px;
+        border-color: #184c35;
+    } 
+    .cardapio-tabbing{
+        position: relative;
+    }
+    .cardapio-tabbing::after{
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        display: none;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        bottom: -29px;
+        border-color: #184c35 transparent transparent transparent;
+        border-width: 10px;
+    }
+    .cardapio-tabbing.active-tab::after{
+        display: inline-block;
+    }
+    .primary-cardapio::after{
+        display: none;
+    }
+    .cardapio h2 {
+        margin-bottom: 22px;
+    }
+    .cardapio-content{
+        max-width: 755px;
+        margin: 0 auto;
+        column-count: 2;
+        column-gap: 80px;
+    }
+    .cardapio-content .cardapio-content-wrapper{
+        text-align: left;
+    }
+    .cardapio-wrap.desktop-cardapio{
+        display: block;
+        margin-bottom: 35px;
+        position: relative;
+      }
+    .cardapio-wrap.desktop-cardapio::after{
+        content: '';
+        left: -15px;
+        top: 0;
+        height: calc(100% - 25px);
+        width: 2px;
+        right: 0;
+        position: absolute;
+        margin: 0 auto;
+        background-color: #d5b58c;
+    }
+    .desktop-cardapio .owl-dots {
+        max-width: 55px;
+        margin: 9px auto !important;
+        justify-content: center;
+      }
+    .desktop-cardapio .owl-dots .owl-dot span{
+        margin: 0;
+        height: 8px;
+        width: 8px;
+        background-color: transparent !important;
+        border: 1px solid #c99b61;
+    }
+    .desktop-cardapio .owl-dots .owl-dot.active span{
+        background-color: #c99b61 !important;
+    }
+    .cardapio-wrap.mobile-cardapio{
+        display: none;
+    }
+    .ul-wrap ul{
+        gap: 10px;
+    }
+    .cardapio-bottom{
+        margin-top: 0;   
+    }
+    .archive-listing{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+    }
+    .archive-heading h1 {
+        margin-bottom: 40px;
+        margin-top: 35px;
+    }
+    .archive-listing .post-links .know-btn{
+        border: 2px solid #184c35;
+        background-color: #184c35;
+        padding: 6px 27px;
+        color: #c99b61;
+        font-weight: 400;
+        text-transform: unset;
+        font-family: var(--primary-font);
+    }
+    .archive-listing .post-links .know-btn:hover {
+        background: transparent;
+        border: 2px solid #184c35;
+        color: #184c35;
+    }
+    .archive-listing .entry-content p {
+        margin-bottom: 20px;
+    }   
+   
+}
+@media screen and (min-width: 992px) {
+    .main-logo {
+        width: 290px;
+    }
+    .main-menu {
+        padding-top: 7px;
+    }
+    .sub-menu{
+        top: 42px !important;
+    }
+    .reservation-sliders .slide {
+        padding-left: 50px;
+    }
+    .our-story .history{
+        align-items: center;
+        gap: 33px;
+        margin-right: 0;
+    }
+    .story-img {
+        margin-right: 0;
+    }
+   
+    .our-journey .owl-item.active + .owl-item.active + .owl-item.active .journey-listing h3::after,.our-journey .owl-item.active + .owl-item.active + .owl-item.active .journey-listing::after {
+        display: none;
+    }
+    .our-journey .owl-item.active + .owl-item.active .journey-listing h3::after,.our-journey .owl-item.active + .owl-item.active .journey-listing::after {
+        display: block;
+    }
+    .our-story.our-menu .container-wrapper .container {
+        justify-content: space-between;
+    }
+    .our-story{
+        padding: 67px 0 75px;
+    }
+    .mobile-slider .owl-carousel .owl-item img, .mobile-menu-slider .owl-carousel .owl-item img {
+        height: 390px;
+    }
+    .desktop-slider.mobile-slider,.desktop-menu-slider.mobile-menu-slider {
+        width: calc(100% - 300px);
+        margin-right: -18px;
+    }
+    .restaurant-picture img {
+        width: 100%;
+        min-height: 465px;
+    }
+    .our-restaurant.our-story .restaurant.history {
+        max-width: 331px;
+    }
+    .container-wrapper {
+        padding: 50px 0 58px 10px;
+        margin-top: -380px;
+    }
+    .site-footer .widget.widget_block {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .our-menu.our-story .restaurant.history {
+        margin-right: 0;
+    }
+    .mobile-menu-slider .owl-stage {
+        padding-right: 0 !important;
+        padding-left: 98px !important;
+    }
+    .owl-theme .owl-nav {
+        right: 64px;
+    }
+    .mobile-menu-slider .owl-theme .owl-nav {
+        left: 64px;
+    }
+      /*news*/
+   .news-wrapper{
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+   }
+   .news-left-block{
+    max-width: calc(100% - 430px);
+    margin-bottom: 0;
+    padding: 60px 20px 60px 0;
+    order: 1;
+   }
+   .news-right-block {
+    margin-bottom: 0;
+    order: 2;
+    width: 100%;
+    max-width: 485px;
+    background-color:#ebe3d8;
+    padding: 60px 15px 60px 30px;
+    position: relative;
+    z-index: 1;
+   }
+   .news-right-block::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100%;
+    z-index: -1;
+    background-color:#ebe3d8;
+   }
+   .news-right-block h2{
+    display: none;
+   }
+ 
+   .mostRead-post h3.dekstop-post-heading{
+    display: block;
+    margin-bottom: 40px;
+    padding-left: 0;
+   }
+   .news-right-block h3{
+    padding-left: 23px;
+   }
+   .news-section{
+    padding: 0;
+    overflow: hidden;
+   }
+   .categories-section {
+    margin-bottom: 55px;
+   }
+   .celebrate-banner .container {
+    min-height: 204px;
+   }
+   .celebrate-banner.news-banner{
+    background-color: #184c35;
+    background-image: none;
+   }
+   .mobile-post,.last-post .mobile-post,.revenue-list,.last-post-date.mobile-post-date{
+    display: none;
+   }
+   .last-post h3{
+    display: block;
+    letter-spacing: -0.5px;
+    padding-left: 0;
+    padding-right: 19px;
+    text-align: center;
+    margin-bottom: 40px;
+   }
+   .site-main .post-navigation .nav-links {
+    justify-content: space-between;
+    }
+   .news-heading h2{
+    font-size: 40px;
+    letter-spacing: 14px;
+    padding-left: 12px;
+    color: #c99b61;
+   }
+   .news-banner .event-heading{
+    display: none;
+   } 
+   .news-heading{
+    display: block;
+   }
+   .news-left-block .desktop-post-heading{
+    text-align: left;
+    margin-bottom: 13px;
+    padding: 0;
+   }
+   .detailed-post .item-list{
+    margin-bottom: 0;
+   }
+   .desktop-post-heading a{
+    padding: 0;
+    text-decoration: none;
+    color: #184c35;
+   }
+   .last-post-date{
+    display: inline-block;
+    margin-bottom: 22px;
+   } 
+   .revenue-list.desktop-revenue{
+    display: flex;
+    margin-left: 0;
+    margin-bottom: 35px;
+   }
+   .post-type-archive .revenue-list.desktop-revenue {
+    order: 1;
+   }
+    .post-links .social-media li{
+    border-color: #c99b61;
+    transition: all 0.5s;
+   }
+    .post-links .social-media i {
+    color: #c99b61;
+    transition: all 0.5s;
+   }
+   .post-links .social-media a:hover,.post-links .social-media li:hover {
+    color: #184c35;
+}
+   .revenue-list li a {
+    border-radius: 0;
+   }
+   .detailed-post.owl-carousel .post-content h3 a {
+    font-size: 16px;
+   }
+   .last-post-img{
+    max-width: 100%;
+   } 
+   .last-post-content p {
+    line-height: 1.8;
+    margin-bottom: 31px;
+    letter-spacing: -0.44px;
+    margin-right: -8px;
+   }
+   .post-links .know-btn{
+    font-family: var(--primary-font);
+    font-weight: 400;
+    padding: 6px 27px;
+    color: #bf975f;
+    background-color: #184c35;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: unset;
+    transition: all 0.5s;
+    border: 2px solid #184c35;
+   }
+   .post-links {
+    align-items: center;
+   }
+   .last-post{
+    margin-bottom: 20px;
+    border-bottom: 2px solid #bf975f;
+    padding-bottom: 53px;
+   }
+   .recent-post-block h3 {
+    letter-spacing: 0;
+    padding-left: 0;
+    padding-right: 18px;
+    margin-bottom: 43px;
+    text-align: center;
+    display: block;
+    color: #184c35;
+    font-weight: 700;
+    }
+    .recent-post-block{
+        display: block;
+        padding-top: 25px;
+    }
+    .desktop-post-heading{
+        text-align: left;
+        margin-bottom: 10px;
+    }
+   .recent-post-block.similar-news-block{
+    display: block;
+    max-width: 1207px;
+    margin: 0 auto;
+    padding: 59px 137px 107px 94px;
+   }
+   .similar-news-block h3 {
+    padding-right: 0;
+    padding-left: 42px;
+   }
+   .recent-post-list{
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+   }
+   .recent-post-list li, .recent-post-list .post-content{
+    display: block;
+   }
+   .recent-post-list .post-img, .recent-post-list .post-img img {
+    border-radius: 0;
+    height: auto;
+    }
+    .recent-post-list .post-img{
+        margin-bottom: 15px;
+    }
+    .post-content .know-btn{
+        font-family: var(--primary-font);
+        font-weight: 400;
+        padding: 6px 27px;
+        color: #bf975f;
+        background-color: #184c35;
+        text-decoration: none;
+        display: inline-block;
+        border: 2px solid #184c35;
+        transition: all 0.5s;
+    }
+    .post-content .know-btn:hover{
+        background: transparent;
+        border: 2px solid #184c35;
+        color: #184c35;
+    }
+    .last-post-content {
+        margin: 0;
+    }
+   .recent-post-list .post-date{
+        display: inline-block;
+        font-size: 16px;
+        line-height: 1;
+        margin-bottom: 10px;
+    }
+    .recent-post-list p{
+        margin-right: -6px;
+        letter-spacing: -0.1px;
+        padding-left: 4px;
+        line-height: 1.3;
+        margin-bottom: 23px;
+    }
+    .post-img {
+        min-width: 170px;
+    }
+    .categories-list {
+        max-width: 317px;
+        margin: 0 auto;
+        padding-left: 21px;
+    }
+    .search-form {
+        max-width: 333px;
+        margin: 0 auto 53px;
+        padding-left: 31px;
+    }
+    .post-type-archive .post-links .know-btn:hover {
+        background: transparent;
+        border: 2px solid #184c35;
+        color: #184c35;
+    }
+    .revenue-list li a:nth-child(2) {
+        padding: 4px 18px 5px 18px; 
+        min-width: unset;
+    }
+    .detailed-content .desktop-post-heading{
+        max-width: 100%;
+        margin-bottom: 10px;
+        font-size: 25px;
+        text-align: left !important;
+        margin-left: 0;
+    }
+    .detailed-content .last-post-date{
+        text-align: left;
+    }
+    .detailed-post .post-links {
+        justify-content: flex-start;
+    }
+    .detailed-content > .post-links {
+        justify-content: flex-end;
+    }
+    .detailed-news .news-right-block {
+        display: block;
+    }
+    .detailed-content{
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-bottom: 0;
+    }
+    .detailed-banner{
+        display: block;
+    }
+    .detailed-post.owl-carousel p{
+        letter-spacing: 0.36px;
+        padding-left: 12px;
+        line-height: 1.3;
+        margin-bottom: 23px;
+        word-spacing: -1.8px;
+        margin-right: 0;
+    }
+    .last-post.detailed-content .revenue-list{
+        order: unset;
+      }
+   
+    .detailed-post{
+        grid-template-columns: repeat(3, 1fr);
+    }
+      .similar-btn {
+        text-align: left;
+        margin-top: auto;
+      }
+      /*event*/
+      .due-listing{
+        max-width: 638px;
+      }
+      .due-listing li{
+        display: flex;
+        border: 2px solid #c99b61;
+        margin-bottom: 12px;
+        justify-content: space-between;
+      }
+      .gastronomic-event h2,.gastronomic-event .unit-choice{
+        display: block;
+        color: #c99b61;
+        font-size: 22px;
+        font-family: var(--primary-font);
+        font-style: italic;
+        padding: 0 15px;
+        line-height: 1.25;
+        margin-bottom: 16px;
+    }
+    .gastronomic-event h2{
+        padding-left: 40px;
+    }
+    .gastronomic-event .reservation-place h3{
+        margin-bottom: 32px;
+    }
+    .gastronomic-event .reservation-place .city-name{
+        font-weight: 700;
+    }
+    .gastronomic-event .visit-place li {
+        margin-bottom: 45px;
+    }
+    .gastronomic-event .unit-choice{
+        color: #e4d8c8;
+        font-size: 20px;
+        margin-bottom: 30px;
+        display: inline-block;
+        padding: 0 20px;
+    }
+    .gastronomic-event .tel{
+        margin-bottom: 3px;
+        margin-left: 0;
+    }
+    .gastronomic-banner{
+        display: none;
+    }
+    .gastronomic-event .container {
+        flex-direction: unset;
+    }
+    .gastronomic-event {
+        padding: 50px 0;
+        height: 135px;
+    }
+    .gastronomic-event .event-content{
+        display: none;
+    }
+    .event-banner .choose-container{
+        background-color: #e5d9c9;
+        padding: 30px 25px 45px 40px;
+        position: relative;
+        display: block;
+    }
+    .choose-container{
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100%;
+        background-color: #e5d9c9;
+    }
+    .gastronomic-event .reservation-place {
+        margin-top: -50px;
+        min-height: 500px;
+        margin-bottom: 0;
+        padding: 40px 27px 34px 31px;
+    }
+    .event-story .owl-theme .owl-nav {
+        right: 65px;
+    }
+    
+    .choose-container .choose-due{
+        display: block;
+    }
+    .event-banner .event-content{
+        text-align: left;
+        max-width: 635px;
+        padding-right: 32px;
+    }
+    .event-banner{
+        min-height: 970px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        overflow: hidden;
+    }
+    .event-content h3{
+        padding-left: 0;
+        margin-bottom: 21px;
+    }
+    .enjoy-block .enjoy-listing:nth-child(1) h3 {
+        padding: 0 65px;
+    }
+    .event-content p {
+        margin-bottom: 15px;
+    }
+    .due-content-wrapper p{
+        margin-bottom: 3px;
+        letter-spacing: -0.8px;
+    }
+    .due-content-wrapper{
+        max-width: calc(100% - 100px);
+        padding: 7px 0;
+    }
+    .due-listing .listing-img{
+        max-width: 90px;
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        border-right: 2px solid #c99b61;
+    }
+    .gastronomic-event .reservation-place .unit-choice, .gastronomic-event .reservation-place .event-address,
+    .gastronomic-event .reservation-place .memorable-event h2,.gastronomic-event .reservation-place .choose-due {
+        display: block;
+    }
+    .gastronomic-event .reservation-place .event-address{
+        margin-bottom: 15px;
+    }
+    .enjoy-section {
+        min-height: 499px;
+    }
+    .event-main-banner .container{
+        min-height: 300px;
+    }
+    .gastronomic-event .event-address p{
+        margin-bottom: 0;
+        padding-right: 8px;
+        font-family: var(--primary-font);
+        color: #184c35;
+    }     
+    .event-main-banner{
+        background-size: cover;
+        background-repeat: no-repeat;
+    }  
+    .detailed-post .owl-dots {
+        display: flex !important;
+        margin-top: 26px !important;
+    }
+    .reservation-wrap-block {
+        position: relative;
+    }
+    .reservation-wrap-block:nth-child(2) .phone-icon, 
+    .reservation-wrap-block:nth-child(3) .phone-icon{
+        position: static;
+        margin-bottom: 25px;
+    }
+    .trattoria-event .reservation-place .event-address {
+        margin-bottom: 24px;
+    }
+    .reservation-wrap-block:nth-child(1) .phone-icon{
+        margin-top: -37px;
+        position: absolute;
+    }
+    .reservation-wrap-block .phone-icon::after{
+        content: '';
+        top: 5px;
+        left: 50%;
+        right: 0;
+        position: absolute;
+        width: 48px;
+        height: 48px;
+        background-color: #184c35;
+        border-radius: 50%;
+        transform: translateX(-50%);
+    }
+    .tutoria-menu{
+        display: flex;
+        max-width: 640px;
+        width: 100%;
+        padding-left: 40px;
+    }
+    .trattoria h2{
+        padding-left: 0;
+    }
+    .tutoria-menu a{ 
+        font-size: 14px;
+        color: #c99b61;
+        display: inline-block;
+        text-decoration: none;
+        font-family: var(--primary-font);
+        list-style-type: none;
+    }
+    .tutoria-menu li{
+        margin-right: 15px;
+        list-style-type: none;
+    }
+    .tutoria-menu li:last-child{
+        margin-right: 0;
+    }
+    .trattoria .event-content h2{
+        display: block;
+        color: #c99b61;
+        font-size: 22px;
+        font-family: var(--primary-font);
+        font-style: italic;
+        line-height: 1.25;
+        margin-bottom: 16px;
+    }
+    .gallery-wrapper .pagination-block{
+        display: block;
+        max-width: 815px;
+        margin: 0 auto;
+      }
+      .trattoria-event .trattoria-mobile-tabbing.reservation-place{
+        display: none;
+      }
+      .trattoria-event .reservation-place{
+        display: block;
+        margin-right: 0px;
+        max-width: 282px;
+        margin-top: -60px;
+      }
+      .event-banner.trattoria{
+        display: block;
+        min-height: 699px;
+      }
+      .trattoria-menu{
+        display: flex;
+        list-style-type: none;
+        padding-left: 42px;
+      }
+      .trattoria-event {
+        background-color: #184c35;
+        padding: 59px 0 50px;
+        margin-top: -2px;
+      }
+      .trattoria-event .container {
+        align-items: flex-start;
+    }
+    .trattoria-event .event-address p {
+        margin-bottom: 10px;
+    }
+    .cardapio {
+        background-color: #184c35;
+        padding: 70px 0 20px;
+    }
+    .primary-cardapio{
+        justify-content: center;
+        flex-direction: row;
+        max-width: 756px;
+        margin: 0 auto 18px;
+        padding-bottom: 10px;
+        gap: 15px;
+    }
+    .primary-cardapio li{
+        margin: 0 20px;
+    }
+    .cardapio-wrapper{
+        background-color: #e5d9c9;
+        padding: 67px 0 45px;
+    }
+    .download-menu .know-btn {
+        margin-bottom: 25px;
+    }
+    .cardapio h2 {
+        margin-bottom: 32px;
+        letter-spacing: 12px;
+        padding-left: 3px;
+        padding-right: 12px;
+    }
+    .bottom-slider .owl-carousel .owl-stage-outer {
+       overflow: hidden;
+    }
+    .bottom-slider .trattoria-gallery .due-slider{
+        display: block;
+    }
+    .trattoria-gallery .owl-nav{
+        left: 272px;
+    }
+    .event-banner.trattoria .event-content p {
+        margin-bottom: 15px !important;
+        line-height: 1.27;
+        letter-spacing: -0.8px;
+        word-spacing: 0;
+        font-family: var(--muli-font);
+    }
+    .trattoria-event .know-btn{
+        padding: 4px 15px 8px 9px;
+        font-size: 14px;
+        line-height: 1;
+        min-width: 135px;
+        margin-right: 5px;
+    }
+    .trattoria-events.executivo-section h2{
+        margin-bottom: 12px;
+    }
+    .trattoria-events.executivo-section p.subtitle{
+        font-size: 20px;
+        font-style: italic;
+        margin-bottom: 24px;
+        letter-spacing: -0.6px;
+        word-spacing: 0;
+        padding-right: 1px;
+        padding-left: 0px;
+        font-family: var(--primary-font);
+        font-weight: 400;
+    }
+    .trattoria-events.executivo-section p{
+        font-family: var(--muli-font);
+        letter-spacing: -0.5px;
+        margin-bottom: 16px;
+    }
+    .executivo-section-wrapper {
+        padding-bottom: 0;
+        background-size: cover;
+    }
+    .trattoria-slider-btn {
+        margin-top: 25px;
+    }
+    .trattoria-slider {
+        padding-top: 73px 0 29px;
+    }
+    .ul-wrap ul {
+        gap: 20px;
+    }    
+    .cardapio-tabbing::after {
+        bottom: -30px;
+    }
+    .cardapio-content {
+        column-gap: 100px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .story-content {
+        max-width: 730px;
+        margin-left: auto;
+    }
+    /*news*/
+    .detailed-content .post-wrap {
+        padding-bottom: 32px;
+        margin-bottom: 35px;
+    }
+    .similar-news {
+        padding: 70px 0;
+    }
+    .grid-item, .grid-sizer {
+        width: 32%;
+    }  
+    .event-story .owl-theme .owl-nav {
+        right: 64px;
+    }
+    .trattoria-gallery .owl-nav {
+        left: 287px;
+    }
+    .trattoria-slider .history {
+        max-width: 316px;
+    }
+    .custom-trattoria {
+        width: calc(100% - 316px);
+    }
+    .archive-listing {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media screen and (min-width: 1200px) {
+    .story-content > p {
+        max-width: 350px;
+    }
+    .owl-theme .owl-nav {
+        right: 124px;
+    }
+    .mobile-menu-slider .owl-stage {
+        padding-left: 160px !important;
+    }
+    .mobile-menu-slider .owl-theme .owl-nav {
+        left: 127px;
+    }
+       .our-story .history {
+        margin-left: 6%;
+    }
+    .our-story{
+        position: relative;
+    }
+    .our-story.our-history
+    {
+        padding: 0;
+    }
+    .our-history::after{
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 156px;
+        height: 100%;
+        background-color: #fff;
+    }
+    .our-history::before{
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 79px;
+        width: 226px;
+        z-index: 1;
+        height: 446px;
+        background: url(../images/due-image-left.png) no-repeat left top;
+        background-size: 204px;
+    }
+    .story-wrapper.container-wrapper {
+        position: static;
+        margin: 0;
+        margin-left: auto;
+        background:#e5d9c9;
+        width: calc(100% - 156px);
+        padding: 64px 0 77px;
+    }
+    .reservation-sliders .slide p {
+        padding: 0 82px;
+    }
+ 
+    .our-journey .owl-item.active + .owl-item.active + .owl-item.active +
+     .owl-item.active .journey-listing h3::after,.our-journey .owl-item.active 
+     + .owl-item.active + .owl-item.active + .owl-item.active .journey-listing::after {
+        display: none;
+    }
+    .our-journey .owl-item.active + .owl-item.active + .owl-item.active .journey-listing h3::after,
+    .our-journey .owl-item.active + .owl-item.active + .owl-item.active .journey-listing::after {
+        display: block;
+    }
+    .last-post h3{
+        margin-bottom: 73px;
+    }
+    .last-post-img {
+        margin-bottom: 42px;
+    }
+    .last-post-img img{
+        height: 378px;
+        object-fit: cover;
+    }
+    .last-post-content .desktop-post-heading  a{
+        font-size: 26px;
+    }
+    .recent-post-list {
+        gap: 70px;
+    }
+    .similar-news {
+        padding: 90px 0 50px;
+    }
+    /*event*/
+    .event-main-banner .container {
+        min-height: 400px;
+    }
+    .event-banner .choose-container, .gastronomic-event h2 {
+        padding-left: 80px;
+    }
+    .detailed-post.owl-carousel .post-content h3 a {
+        font-size: 18px;
+       }
+       .event-main-banner .event-heading h2 {
+        margin-bottom: 25px;
+        line-height: 1.75;
+        letter-spacing: 10px;
+        padding: 0 0px 0 21px;
+        font-weight: 400;
+        word-spacing: 6px;
+        font-size: 30px;
+       }
+       .gastronomic-event h2 {
+        font-size: 24px;
+       }
+       .due-listing .listing-img {
+        max-width: 102px;
+       }
+       .enjoy-section {
+        margin-top: -168px;
+       }
+       .enjoy-listing h3 {
+        padding: 3px 81px 0 87px;
+        margin-bottom: 24px;
+    }
+    .event-story .owl-theme .owl-nav {
+        right: 125px;
+    }
+    .enjoy-block .enjoy-listing:nth-child(2) h3 {
+        padding: 2px 42px 1px 50px;
+        margin-bottom: 22px;
+    }
+    .exlcusive-space p, .exlcusive-space{
+        margin-bottom: 0;
+    }
+    .enjoy-listing p {
+        margin-bottom: 15px;
+        padding: 0 34px;
+        letter-spacing: 0.1px;
+    }
+    .our-restaurant.our-story{
+        padding-top: 77px !important;
+    }
+    .our-restaurant.our-story .restaurant-picture img,.our-restaurant.our-story .restaurant-picture {
+        min-height: 548px;
+    }
+    .enjoy-block .enjoy-listing:nth-child(2) .know-btn:last-child {
+        margin-top: 55px;
+    }
+    .enjoy-listing {
+        padding-bottom: 38px;
+    }
+    .event-banner .event-content, .due-listing {
+        max-width: 670px;
+    }
+    .due-content-wrapper {
+        padding: 7px 14px;
+    }
+    .due-content-wrapper p {
+        letter-spacing: -0.7px;
+    }
+    /*gallery*/
+    .gallery-wrapper .grid {
+        margin-bottom: 60px;
+    }
+    .gallery-wrapper {
+        padding-bottom: 80px;
+    }
+    .trattoria-menu {
+        padding-left: 84px;
+    }
+    .trattoria-gallery .owl-nav {
+        left: 330px;
+        right: unset;
+    }
+    .trattoria-banner.event-main-banner h2 {
+        font-size: 20px;
+        line-height: 2;
+        letter-spacing: 6.5px;
+        font-family: var(--secondary-font);
+        margin-bottom: 12px ;
+        padding-left: 6px;
+    }
+    .event-main-banner.trattoria-banner{
+        min-height: 399px;
+    }
+    .trattoria-menu li {
+        margin-right: 46px;
+    }
+    .trattoria-event .reservation-place {
+        max-width: 280px;
+        margin-top: -60px;
+    }
+    .event-banner.trattoria .choose-container{
+        padding-bottom: 74px;
+    }
+    .cardapio {
+        padding: 108px 0 35px;
+    }
+    .executivo-section {
+        padding: 104px 134px 84px;
+    }
+    .executivo-section h2 {
+        padding-left: 12px;
+        margin-bottom: 1px;
+    }
+    .subtitle{
+        letter-spacing: -1px;
+        word-spacing: 3px;
+    }
+    .exec-note {
+        letter-spacing: -1.3px;
+        margin-bottom: 34px;
+    }
+    .executivo-slider p {
+        padding-right: 0;
+        margin-bottom: 25px;
+    }
+    .trattoria-event .event-address p {
+        margin-bottom: 15px;
+    }
+    .trattoria-events.executivo-section{
+        padding: 34px 42px 163px;
+    }
+    .event-banner.trattoria {
+        min-height: 724px;
+    }
+    .trattoria-slider .history {
+        max-width: 350px;
+    }
+    .trattoria-slider .know-btn{
+        padding: 10px 69px 9px 71px;
+    }
+    .eventos-section.trattoria-slider {
+        padding-top: 38px;
+    }
+    .trattoria-events.executivo-section .know-btn {
+        bottom: 73px;
+    }
+    .bottom-slider .container-wrapper {
+        margin-top: 0;
+        overflow: hidden;
+        padding: 64px 0 53px 44px;
+        width: calc(100% - 6%);
+    }
+    .cardapio-content {
+        column-gap: 145px;
+    }
+    .input-wrap input, .input-wrap textarea, .input-wrap select {
+        font-size: 16px;
+    }
+}
+@media screen and (min-width: 1400px) {
+    .main-navigation li {
+        margin-right: 9px;
+        margin-top: 1px;
+        padding-bottom: 14px;
+    }
+    .header-wrap {
+        align-items: center;
+    }
+    .site-footer .social-media-wrap .social-media {
+        padding-top: 3px;
+    }
+    .sub-menu{
+        top: 38px !important;
+    }
+    .main-navigation a {
+        letter-spacing: -0.05px;
+    }
+    .site-header .container {
+        padding-right: 21px;
+    }
+    .main-logo {
+        width: 310px;
+    }
+    .site-header {
+        padding: 8px 0 0;
+    }
+    .banner .establish {
+        font-size: 14px;
+        letter-spacing: 3.6px;
+    }
+    .banner {
+        padding: 70px 0 62px;
+    }
+    .title {
+        width: 477px;
+    }
+    .banner .container {
+        min-height: 507px;
+    }
+
+    span.dish.establish {
+        margin-top: 0;
+    }
+    .reservation-place{
+        padding-bottom: 26px;
+    }
+    .visit-place li {
+        padding-right: 9px;
+    }
+    .reservation-sliders .slide {
+        padding: 43px 60px 50px 76px;
+    }
+    .mobile-menu-slider .owl-stage {
+        padding-left: 204px !important;
+    }
+    .mobile-menu-slider .owl-theme .owl-nav {
+        left: 164px;
+    }
+    .reservation-slide-wrap {
+        max-width: 1096px;
+    }
+    .reservation-sliders .slide p {
+        padding: 0 40px;
+    }
+    .story-img img {
+        height: 452px;
+        width: 255px;
+    }
+    .story-wrapper.container-wrapper {
+        margin-left: 83px;
+    }
+    .story-content {
+        max-width: 683px;
+        margin-left: 0px;
+        padding: 30px 0px 20px 0px;
+    }
+    .our-story .history {
+        justify-content: space-between;
+        padding: 8px 20px 9px 165px;
+        margin-left: 0%;
+        gap: 112px;
+    }
+    .story-content > p {
+        max-width: 328px;
+        margin-bottom: 38px;
+    }
+    .journey-listing h3 {
+        margin-bottom: 22px;
+    }
+    .journey-listing p {
+    padding-right: 9px;
+    letter-spacing: -1px;
+    }
+    .our-journey {
+        margin-bottom: 49px;
+    }
+    .story-content > .know-btn {
+        letter-spacing: -0.9px;
+        padding: 10px 55px 10px 51px;
+    }
+    .our-restaurant.our-story {
+        padding-top: 105px;
+    }
+    .restaurant-picture {
+        display: block;
+        width: 94%;
+    }
+    .our-story {
+        padding: 64px 0 75px;
+    }
+    .container-wrapper {
+        padding: 70px 0 92px 10px;
+        margin-top: -442px;
+        width: calc(100% - 175px);
+    }
+    .container-wrapper .container {
+        align-items: flex-start;
+    }
+    .our-restaurant.our-story .restaurant.history, .our-menu.our-story .restaurant.history {
+        max-width: 425px;
+        padding: 55px 20px 8px 62px;
+    }
+    .restaurant-title {
+        margin-bottom: 23px;
+    }
+    .desktop-slider.mobile-slider, .desktop-menu-slider.mobile-menu-slider {
+        width: calc(100% - 408px);
+        margin-right: -18px;
+    }
+    .restaurant-content p {
+        margin-bottom: 23px;
+    }
+    .owl-theme .owl-nav {
+        right: 166px;
+        width: 75px;
+        height: 75px;
+    }
+    .owl-carousel .owl-nav button.owl-next::after {
+        background-size: 33px;
+    }
+    .our-story.our-menu .container-wrapper {
+        margin-top: -376px;
+        padding-top: 85px;
+        padding-bottom: 78px;
+    }
+    .our-menu.our-story .restaurant.history {
+        padding-top: 17px;
+    }
+    .site-footer .widget.widget_block {
+        max-width: 1170px;
+        margin: 0 auto;
+        padding-bottom: 31px;
+    }
+    .our-addresses i {
+        margin-bottom: 4px;
+    }
+    .our-story.our-menu .restaurant-picture img{
+        min-height: 582px;
+    }
+    .our-addresses:nth-child(4){
+        padding-right: 23px;
+    }
+    .our-addresses:nth-child(3){
+        padding-right: 9px;
+    }
+    .site-footer .site-info{
+        max-width: 1250px;
+        margin: 0 -10px;
+    }
+    .produce-title{
+        margin-right: 20px;
+    }
+    .site-info .social-media-wrap {
+        margin-left:0px;
+    }
+    .footer-logo img{
+        width: 135px;
+        padding: 0 19px 0 16px;
+        margin-right: 40px;
+    }
+    .footer-logo::before {
+        top: 50%;
+    }
+    .news-left-block {
+        max-width: calc(100% - 525px);
+        padding: 97px 20px 60px 87px;
+    }
+    .news-right-block {
+        padding: 91px 54px 60px 35px;
+    }
+      
+    .mostRead-post .post-list li {
+        gap: 20px;
+        margin-bottom: 34px;
+    }  
+    .detailed-news .news-left-block {
+        padding-top: 88px;
+        padding-bottom: 94px;
+    }
+    .similar-news {
+        padding: 116px 0 55px;
+    }
+    /*event*/
+    .gastronomic-event h2 {
+        padding-left: 170px;
+    }
+    .gastronomic-event .reservation-place .visit-place .know-btn {
+        padding: 5px 11px 7px 6px;
+    }
+    .detailed-post.owl-carousel .post-content h3 a {
+        font-size: 20px;
+    }
+    .gastronomic-event .reservation-place {
+    margin-right: 87px;
+    padding: 40px 27px 70px 31px;
+    }
+    .event-banner .choose-container{
+    padding-left: 152px;
+    padding-top: 37px;
+    }
+    .event-content h3, .event-content p{
+        padding-left: 19px;
+    }
+    .event-content h3{
+        margin-bottom: 26px;
+    }
+    .event-content > p {
+        margin-bottom: 40px;
+    }
+    .due-content-wrapper {
+        padding-left: 0;
+        padding-right: 1px;
+    }
+    .event-story .owl-theme .owl-nav {
+        right: 170px;
+    }
+    /*contact-banner*/
+    .contact-banner .container {
+        min-height: 398px;
+    }
+    .desktop-contact{
+        letter-spacing: -0.2px;
+        padding-left: 2px;
+        margin-bottom: 21px;
+    }
+    .contact-section .input-wrap.field p {
+        gap: 33px;
+    }
+    .contact-section {
+        padding: 37px 0 0 1px;
+    }
+    .trattoria-gallery .owl-nav {
+        left: 390px;
+    }
+    .trattoria-menu {
+        padding-left: 170px;
+    }
+    .trattoria .event-content h2 {
+        padding-left: 20px;
+        letter-spacing: -0.8px;
+        margin-bottom: 21px;
+    }
+    .reservation-wrap-block:first-child{
+        padding: 5px 2px 0 9px;
+        margin-bottom: 27px;
+    }
+    .trattoria-event .reservation-wrap-block:first-child h3{
+        margin-bottom: 20px;
+     }
+     .reservation-wrap-block .event-address p{
+       line-height: 1;
+        margin-bottom: 15px;
+        padding-right: 16px;
+        letter-spacing: -0.1px;
+        padding-left: 10px;
+    }
+     .trattoria-event .reservation-wrap-block:nth-child(2) h3{
+        margin-bottom: 14px;
+     }
+    .reservation-wrap-block:nth-child(2) .phone-icon{
+        margin-bottom: 16px;
+    }
+    .trattoria-event .reservation-wrap-block:nth-child(2) .know-btn{
+        min-width: 122px;
+        padding: 5px 7px 9px 4px;
+        margin-right: 0;
+        letter-spacing: -0.3px;
+     }
+      .trattoria-event .reservation-wrap-block:nth-child(3) h3{
+        margin-right: -14px;
+        padding-right: 18px;
+        margin-left: -5px;
+        margin-bottom: 18px;
+        padding-bottom: 0;
+        line-height: 1;
+     }
+     .reservation-wrap-block:nth-child(3) .event-address p{
+        line-height: 1.15;
+     }
+     .reservation-wrap-block:nth-child(3) .phone-icon {
+        margin-bottom: 19px;   
+     }
+    .reservation-wrap-block:nth-child(2) .event-address p{
+        line-height: 1.15;
+        margin-bottom: 20px;
+    }
+    .reservation-wrap-block:nth-child(3) .event-address:nth-child(1) p,
+    .reservation-wrap-block:nth-child(3) .event-address:nth-child(3) p {
+         margin-bottom: 18px;
+    }
+    .reservation-wrap-block:nth-child(3) .event-address:nth-child(2) p {
+         margin-bottom: 19px;
+    }
+    .trattoria-event .reservation-place{
+        padding-bottom: 10px;
+    }
+    .trattoria-slider .container-wrapper {
+        width: calc(100% - 6%);
+        padding: 64px 0 53px 63px;
+    }
+    .trattoria-slider .history {
+        max-width: 363px;
+        margin: 0;
+    }
+    .custom-trattoria {
+        width: calc(100% - 363px);
+    }
+    .event-banner.trattoria {
+        min-height: 709px;
+    }
+    .cardapio {
+        padding-bottom:59px;
+    }
+    .trattoria-slider .restaurant.history {
+        padding-top: 55px;
+    }
+}
